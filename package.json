@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mortelli/thegraph-sandbox/issues"
   },
-  "homepage": "https://github.com/mortelli/thegraph-sandbox#readme"
+  "homepage": "https://github.com/mortelli/thegraph-sandbox#readme",
+  "devDependencies": {
+    "@graphprotocol/graph-cli": "^0.29.0"
+  }
 }
