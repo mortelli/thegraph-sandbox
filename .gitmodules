@@ -1,0 +1,3 @@
+[submodule "example-subgraph"]
+	path = example-subgraph
+	url = /home/rafa/github.com/mortelli/thegraph-sandbox/example-subgraph
