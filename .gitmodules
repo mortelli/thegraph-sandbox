@@ -1,6 +1,3 @@
-[submodule "my-subgraph"]
-	path = my-subgraph
-	url = https://github.com/mortelli/my-subgraph
 [submodule "another-subgraph"]
 	path = another-subgraph
 	url = /home/rafa/github.com/mortelli/another-subgraph
